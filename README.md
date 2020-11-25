@@ -1,5 +1,6 @@
 > **Status do projeto:** completo :heavy_check_mark: </br>
-> **Autor:** Juliana Marino Balera :busts_in_silhouette:
+> **Autor:** Juliana Marino Balera :busts_in_silhouette: </br>
+> **Year:** 2016 :date:
 
 # Teste de Hipótese :bar_chart:
 
